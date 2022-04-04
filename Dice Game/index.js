@@ -23,4 +23,4 @@ randomDice2.setAttribute('src', randomImageSrc2);
         document.querySelector("h1").innerHTML ="Match Draw";
     }
 
-    
+    document.qure 
